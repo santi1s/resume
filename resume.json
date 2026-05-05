@@ -198,33 +198,33 @@
       "fluency": "Conversational"
     }
   ],
-  "certifications": [
+  "certificates": [
     {
       "name": "CKA: Certified Kubernetes Administrator",
       "issuer": "The Linux Foundation",
-      "startDate": "2022-03",
+      "date": "2022-03",
       "url": "https://www.cncf.io/certification/cka"
     },
     {
       "name": "CKAD: Certified Kubernetes Application Developer",
       "issuer": "The Linux Foundation",
-      "startDate": "2022-03",
+      "date": "2022-03",
       "url": "https://www.cncf.io/certification/ckad"
     },
     {
       "name": "VMware VCAP6-DCV: Data Center Virtualization Deployment",
       "issuer": "VMware, Inc",
-      "startDate": "2017-06"
+      "date": "2017-06"
     },
     {
       "name": "CCNA: Routing and Switching",
       "issuer": "Cisco",
-      "startDate": "2014-04"
+      "date": "2014-04"
     },
     {
       "name": "ITIL v3: Foundation",
       "issuer": "ITIL",
-      "startDate": "2011-06"
+      "date": "2011-06"
     }
   ]
 }
