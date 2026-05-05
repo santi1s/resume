@@ -1,0 +1,230 @@
+{
+  "meta": {
+    "theme": "elegant"
+  },
+  "basics": {
+    "name": "Sergio Santiago",
+    "label": "Staff Site Reliability Engineer",
+    "image": "",
+    "email": "sergio.santiago@gmail.com",
+    "phone": "+49 151 728 68755",
+    "url": "https://github.com/santi1s",
+    "summary": "Staff Site Reliability Engineer with 20+ years building mission-critical infrastructure at scale. Expert in cloud infrastructure modernization, Kubernetes platform engineering, and SRE best practices. Strategic leader focused on designing resilient systems, reducing operational complexity, and enabling teams through self-service infrastructure. Proven track record architecting systems supporting 100,000+ concurrent users while optimizing costs and driving organizational reliability culture.",
+    "location": {
+      "address": "Triftstraße 38",
+      "postalCode": "13353",
+      "city": "Berlin",
+      "countryCode": "DE",
+      "region": "Germany"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "santi1s",
+        "url": "https://www.linkedin.com/in/santi1s"
+      },
+      {
+        "network": "GitHub",
+        "username": "santi1s",
+        "url": "https://github.com/santi1s"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Doctolib",
+      "position": "Staff Site Reliability Engineer",
+      "startDate": "2024-01-14",
+      "endDate": "",
+      "summary": "Leading infrastructure modernization and reliability initiatives for Europe's largest health tech platform serving 100,000+ concurrent users across France, Germany, and Italy.",
+      "location": "Berlin, Germany",
+      "url": "https://www.doctolib.de",
+      "highlights": [
+        "Engineered Argo Workflows ecosystem as complete replacement for legacy kubetoolbox with production-grade automation (Azure AD SSO, GitHub notifications, ECR integration, event sensors, CLI tooling) — enabling teams to automate complex operational tasks at scale",
+        "Designed Datadog Deployment Gates configurable validation ecosystem with 10+ dedicated monitors replacing static queries, improving canary rollout reliability and deployment confidence",
+        "Co-authored 'Paradigm Shift' strategy shifting from centralized to decentralized, library-based configuration — enabling team autonomy and reducing SRE review bottlenecks",
+        "Implemented EKS workload optimization strategy (cost reduction), redesigned monolith pod sizing, and optimized preproduction environments",
+        "Advanced production-grade canary deployment strategy and ArgoCD integration for strengthened release confidence and rollback capabilities"
+      ]
+    },
+    {
+      "name": "Templafy",
+      "position": "Senior Site Reliability Engineer",
+      "startDate": "2021-11-15",
+      "endDate": "2024-03-31",
+      "summary": "Architected and maintained highly available infrastructure for content enablement platform while scaling operations and improving reliability culture.",
+      "location": "Berlin, Germany",
+      "url": "https://www.templafy.com",
+      "highlights": [
+        "Designed monitoring, alerting, and incident response frameworks for 99.99% uptime targets",
+        "Led disaster recovery planning and business continuity strategy",
+        "Mentored engineering teams on SRE principles and operational excellence",
+        "Owned capacity planning and cost optimization initiatives"
+      ]
+    },
+    {
+      "name": "The Adecco Group",
+      "position": "Cloud Platform Engineer",
+      "startDate": "2021-06-13",
+      "endDate": "2021-11-12",
+      "summary": "SME for Kubernetes/CNCF in cloud platform team supporting enterprise application deployments.",
+      "location": "Berlin, Germany",
+      "url": "https://www.adeccogroup.com",
+      "highlights": [
+        "Automated cloud infrastructure deployment using Azure DevOps and Terraform",
+        "Designed CI/CD pipelines supporting agile development teams",
+        "Containerized applications using Helm and Kubernetes"
+      ]
+    },
+    {
+      "name": "Microsoft",
+      "position": "Azure Rapid Response Senior Engineer",
+      "startDate": "2019-06-15",
+      "endDate": "2021-05-31",
+      "summary": "Supported critical enterprise customers and top startups on Azure platform as subject matter expert for Azure Core Platform domains.",
+      "location": "Lisbon, Portugal",
+      "url": "https://www.microsoft.com",
+      "highlights": [
+        "Specialized in Azure Compute, Linux, and Kubernetes (AKS)",
+        "Provided end-to-end Azure solution support for enterprise customers and startups",
+        "Member of global Azure Rapid Response team (EMEA, Americas, Asia)"
+      ]
+    },
+    {
+      "name": "VMware",
+      "position": "Senior Telco NFV Engineer",
+      "startDate": "2016-11-01",
+      "endDate": "2018-03-31",
+      "summary": "Provided carrier-grade support for Telco NFV platforms to communications service providers globally.",
+      "location": "Cork, Ireland",
+      "url": "https://www.vmware.com",
+      "highlights": [
+        "Supported VMware vCloud NFV stack for CSP customers",
+        "Expert in vSphere, VSAN, NSX, vCloud Director, and vRealize",
+        "Delivered mission-critical support for telecommunications infrastructure"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Aveiro",
+      "studyType": "Bachelor of Science",
+      "area": "Electronic Engineering and Telecommunications",
+      "startDate": "1988",
+      "endDate": "1994",
+      "location": "Aveiro, Portugal"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Cloud Infrastructure & Platforms",
+      "level": "Expert",
+      "keywords": [
+        "AWS (EKS, RDS/Aurora, ElastiCache, MKS)",
+        "Azure (AKS, App Services, Service Bus)",
+        "Kubernetes",
+        "Docker",
+        "Multi-cloud architecture"
+      ]
+    },
+    {
+      "name": "Infrastructure-as-Code",
+      "level": "Expert",
+      "keywords": [
+        "Terraform",
+        "Helm",
+        "ArgoCD",
+        "Ruby DSL",
+        "GitOps",
+        "Ansible"
+      ]
+    },
+    {
+      "name": "Automation & Reliability Engineering",
+      "level": "Expert",
+      "keywords": [
+        "Argo Workflows",
+        "CI/CD Pipelines",
+        "SRE Practices",
+        "Incident Management",
+        "Disaster Recovery",
+        "Capacity Planning"
+      ]
+    },
+    {
+      "name": "Observability & Monitoring",
+      "level": "Expert",
+      "keywords": [
+        "Datadog",
+        "Prometheus",
+        "Grafana",
+        "Application Performance Monitoring",
+        "Metrics & Alerting"
+      ]
+    },
+    {
+      "name": "Leadership & Strategy",
+      "level": "Expert",
+      "keywords": [
+        "Team Leadership",
+        "SRE Culture",
+        "Infrastructure Modernization",
+        "Cost Optimization",
+        "Architectural Design"
+      ]
+    },
+    {
+      "name": "Virtualization & Networking",
+      "level": "Advanced",
+      "keywords": [
+        "VMware (vSphere, NSX, vCloud)",
+        "Network Security",
+        "Load Balancing",
+        "DNS/DHCP"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "French",
+      "fluency": "Conversational"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "CKA: Certified Kubernetes Administrator",
+      "issuer": "The Linux Foundation",
+      "startDate": "2022-03",
+      "url": "https://www.cncf.io/certification/cka"
+    },
+    {
+      "name": "CKAD: Certified Kubernetes Application Developer",
+      "issuer": "The Linux Foundation",
+      "startDate": "2022-03",
+      "url": "https://www.cncf.io/certification/ckad"
+    },
+    {
+      "name": "VMware VCAP6-DCV: Data Center Virtualization Deployment",
+      "issuer": "VMware, Inc",
+      "startDate": "2017-06"
+    },
+    {
+      "name": "CCNA: Routing and Switching",
+      "issuer": "Cisco",
+      "startDate": "2014-04"
+    },
+    {
+      "name": "ITIL v3: Foundation",
+      "issuer": "ITIL",
+      "startDate": "2011-06"
+    }
+  ]
+}
